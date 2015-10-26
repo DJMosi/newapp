@@ -14,6 +14,7 @@ body {
 header {
 	width: 720px;
 	margin: 80px auto 0 auto;
+    text-align: center;
 }
 
 header h1 {
@@ -21,10 +22,21 @@ header h1 {
 	font-weight: bold;
 	color: #272727;
 	text-shadow: 0 1px 0 #fff;
+    text-align: center;
 }
 
 header p {
 	margin: 20px 0 0 3px;
-	font-size: 14px;
+	font-size: 25px;
 	color: #272727;
+    text-align: center;
+
+/* ---- Main Area ---- */
+
+#main {
+	position: relative;
+	width: 700px;
+	margin: 50px auto 0 auto;
+	padding: 20px 0 0 25px;
+	/*background: url(../images/main-content-pattern.jpg) top left repeat;*/
 }
