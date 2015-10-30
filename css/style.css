@@ -8,6 +8,12 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	padding-bottom: 40px;
 }
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+h2 {
+    font-family: 'Arimo', sans-serif;
+}
 
 /* ---- Header ---- */
 
